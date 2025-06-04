@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Contenido inicial en master
 Modificacion en master
+=======
+Contenido en pruebas
+>>>>>>> pruebas
+Contenido combinado master y pruebas
